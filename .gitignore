@@ -1,5 +1,8 @@
 Instagram/Images/
 Instagram/instagram-scraper.log
+.DS_Store
+Instagram/.DS_Store
+env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
