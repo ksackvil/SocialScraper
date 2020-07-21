@@ -1,6 +1,6 @@
 from subprocess import call
 
-USERNAME="nubatown"
+USERNAME="stooleysbargrill" # add the insta username to scrape here
 INCLUDE_IMAGE = True
 INCLUDE_VIDEO = False
 
