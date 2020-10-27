@@ -11,7 +11,7 @@ cffi==1.14.0
 chardet==3.0.4
 clarifai==2.6.2
 configparser==5.0.0
-cryptography==2.9.2
+cryptography==3.2
 decorator==4.4.2
 EasyProcess==0.2.10
 elasticsearch==7.5.1
