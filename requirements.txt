@@ -55,7 +55,7 @@ tornado==6.0.4
 tqdm==4.43.0
 twint==2.1.15
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 webdriverdownloader==1.1.0.3
 wrapt==1.11.2
 yarl==1.4.2
