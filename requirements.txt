@@ -36,7 +36,7 @@ numpy==1.18.1
 pandas==1.0.1
 plyer==1.4.3
 protobuf==3.11.3
-pycares==3.1.1
+pycares==4.2.0
 pycparser==2.19
 pylint==2.4.4
 PySocks==1.7.1
